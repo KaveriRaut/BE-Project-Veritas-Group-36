@@ -1,3 +1,5 @@
+# Demonstration file: To show how Fuzzy Library functions works
+
 from thefuzz import fuzz, process
 
 s1="Hello World"
