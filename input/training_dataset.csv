@@ -111,17 +111,17 @@ AMICORP MANAGEMENT INDIA,AMICORP HOLDING,different,last 2 words different,differ
 AMICORP MANAGEMENT INDIA,AMICORP HOLDINGS,different,last 2 words different,different,different,
 AMICORP HOLDING,AMICORP HOLDINGS,same,last character missing,,same,
 INDITEX,INDITEX_SA,same,extra characters,,same,
-MANTECH INTERNATIONAL,MANTECH MBI,different ,,same,same,Subsidiary/Child companies
-MANTECH INTERNATIONAL,MANTECH MSM SECURITY SERVICES,different ,,same,same,Subsidiary/Child companies
-MANTECH INTERNATIONAL,MANTECH SECURITY,different ,,same,same,Subsidiary/Child companies
-MANTECH INTERNATIONAL,MANTECH SECURITY TECHNOLOGIES,different ,,same,same,Subsidiary/Child companies
-MANTECH INTERNATIONAL,MANTECH TELECOMMUNICATIONS AND INFORMATION SYSTEMS,different ,,same,same,Subsidiary/Child companies
-MANTECH INTERNATIONAL,MANTECH,different ,,same,same,Subsidiary/Child companies
-MANTECH INTERNATIONAL,MANTECH FEDERAL,different ,,same,same,Subsidiary/Child companies
-MANTECH INTERNATIONAL,MANTECH ADVANCED SYSTEMS INTERNATIONAL,different ,,same,same,Subsidiary/Child companies
-MANTECH INTERNATIONAL,MANTECH COMMAND CONTROL SYSTEMS,different ,,same,same,Subsidiary/Child companies
-MANTECH INTERNATIONAL,MANTECH CYBER SOLUTIONS INTERNATIONAL,different ,,same,same,Subsidiary/Child companies
-MANTECH INTERNATIONAL,MANTECH ELECTRONICS INTEROPERABILITY SERVICES,different ,,,,Subsidiary/Child companies
+MANTECH INTERNATIONAL,MANTECH MBI,different,,same,same,Subsidiary/Child companies
+MANTECH INTERNATIONAL,MANTECH MSM SECURITY SERVICES,different,,same,same,Subsidiary/Child companies
+MANTECH INTERNATIONAL,MANTECH SECURITY,different,,same,same,Subsidiary/Child companies
+MANTECH INTERNATIONAL,MANTECH SECURITY TECHNOLOGIES,different,,same,same,Subsidiary/Child companies
+MANTECH INTERNATIONAL,MANTECH TELECOMMUNICATIONS AND INFORMATION SYSTEMS,different,,same,same,Subsidiary/Child companies
+MANTECH INTERNATIONAL,MANTECH,different,,same,same,Subsidiary/Child companies
+MANTECH INTERNATIONAL,MANTECH FEDERAL,different,,same,same,Subsidiary/Child companies
+MANTECH INTERNATIONAL,MANTECH ADVANCED SYSTEMS INTERNATIONAL,different,,same,same,Subsidiary/Child companies
+MANTECH INTERNATIONAL,MANTECH COMMAND CONTROL SYSTEMS,different,,same,same,Subsidiary/Child companies
+MANTECH INTERNATIONAL,MANTECH CYBER SOLUTIONS INTERNATIONAL,different,,same,same,Subsidiary/Child companies
+MANTECH INTERNATIONAL,MANTECH ELECTRONICS INTEROPERABILITY SERVICES,different,,,,Subsidiary/Child companies
 CSX,CSX INTERMODAL,different,,,,Subsidiary/Child companies
 CSX,CSX TECHNOLOGY,different,,,,Subsidiary/Child companies
 CSX,CSX TRANSPORTATION,different,,,,Subsidiary/Child companies
@@ -181,7 +181,7 @@ SEOCHO GU OFFICE,SEODAEMUNGU OFFICE,same,spelling different,same,same,
 SEOCHO GU OFFICE,SEODAEMUNGU CITY MANAGEMENT PUBLIC,same,spelling different,same,same,
 EMIRATES NBD,EMIRATES NBD,different,,different,different,
 EMIRATES NBD,EMIRATES NBD BANK,different,,different,different,
-EMIRATES NBD,EMIRATES OF SAUDI ARABIA,same ,,same,,
+EMIRATES NBD,EMIRATES OF SAUDI ARABIA,same,,same,,
 YINZHOU BANK,NINGBO YINZHOU RURAL COMMERCIAL BANK,same,,same,same,
 BUREAU VERITAS MALI,BUREAU VERITAS,different,,different,same,
 BUREAU VERITAS MALI,BUREAU VERITAS HOLDINGS,different,,different,same,
