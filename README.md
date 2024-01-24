@@ -9,3 +9,9 @@
 5) Try Random Forest
 6) increase the accuracy of ML models used (SVM & Rondom Forest)
 7) Building Frontend and Backend (Web Application)
+
+
+### Last Week's College Review3: Teachers Feedback
+1. Fuzzy Functions: instead of using in-built library define your our class and implement entire logic and use it
+2. try to add more attributes like 'Cosine similarity', 'Jaccard coefficient' etc to increase the accuracy
+3. draw own implemented class diagram 
